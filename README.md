@@ -55,6 +55,7 @@ Demographic Trends: Detailed segmentation by age and gender to pinpoint high-val
 Actionable ROI: Data-driven recommendations for sustained business success.
 
 🚀 How to Run
+
 Execute Churn_Queries.sql in SQL Server to prepare database views.
 
 Run Churn Prediction.ipynb to train the model and generate Predictions.csv.
